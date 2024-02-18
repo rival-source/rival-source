@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **ip pullers and others**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I like doritos alot**
 
 💬 Ask me about **anything on discord**
 
