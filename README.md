@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **ip pullers and others**
  
- 🌱 I like doritos alot**
+ 🌱 I like doritos **alot**
 
 💬 Ask me about **anything on discord**
 
