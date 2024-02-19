@@ -27,7 +27,7 @@
   <a href="https://open.spotify.com/user/31vvw7fcaiwyhsh63pnd7egxbbwu?si=9a0e12a6375b4d9b" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank" />
   </a>
-  <a href="https://discord.gg/krPmEKUQXc" target="_blank">
+  <a href="https://discord.gg/tCWwSW9t9R" target="_blank">
      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
