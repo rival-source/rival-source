@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **ip pullers and others**
+ 🔭 I’m currently working on **school proxys and other stuff**
  
  🌱 I like doritos **alot**
 
